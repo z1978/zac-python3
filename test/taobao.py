@@ -1,3 +1,8 @@
+'''
+Created on 2017年9月11日
+
+@author: zac
+'''
 # encoding:utf-8
 import re  # 使用正则 匹配想要的数据
 import requests  # 使用requests得到网页源码
