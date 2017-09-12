@@ -1,3 +1,3 @@
 #-*- coding:utf-8 -*-
-import b
+import sample.b as b
 b.send_alert_mail("","")
